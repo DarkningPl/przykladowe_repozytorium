@@ -1,4 +1,4 @@
 # przykladowe_repozytorium
-* Jakub *
-_ 147510 _
-*** A3 L5 ***
+**Imię:** *Jakub*
+**Nr indeksu:** *147510*
+**Grupa laboratoryjna: *A3 L5***
